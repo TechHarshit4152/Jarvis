@@ -1,0 +1,6 @@
+from conscious_core.conscious_brain import conscious_check
+from conscious_core.reflective_summaries.weekly.weekly_reflection import run_weekly_reflection
+from utils.boot_message import dynamic_boot
+
+
+conscious_check()

@@ -1,0 +1,2166 @@
+{
+  "ollama": {
+    "name": "Ollama",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Ollama.lnk",
+    "aliases": [
+      "ollama"
+    ]
+  },
+  "onedrive": {
+    "name": "OneDrive",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+    "aliases": [
+      "onedrive"
+    ]
+  },
+  "magnify": {
+    "name": "Magnify",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+    "aliases": [
+      "magnify"
+    ]
+  },
+  "narrator": {
+    "name": "Narrator",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+    "aliases": [
+      "narrator"
+    ]
+  },
+  "on-screen keyboard": {
+    "name": "On-Screen Keyboard",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+    "aliases": [
+      "on-screen keyboard"
+    ]
+  },
+  "internet explorer": {
+    "name": "Internet Explorer",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Internet Explorer.lnk",
+    "aliases": [
+      "internet explorer"
+    ]
+  },
+  "docs": {
+    "name": "Docs",
+    "path": "",
+    "aliases": [
+      "docs"
+    ]
+  },
+  "gmail": {
+    "name": "Gmail",
+    "path": "",
+    "aliases": [
+      "gmail"
+    ]
+  },
+  "google drive": {
+    "name": "Google Drive",
+    "path": "",
+    "aliases": [
+      "google drive"
+    ]
+  },
+  "sheets": {
+    "name": "Sheets",
+    "path": "",
+    "aliases": [
+      "sheets"
+    ]
+  },
+  "slides": {
+    "name": "Slides",
+    "path": "",
+    "aliases": [
+      "slides"
+    ]
+  },
+  "youtube": {
+    "name": "YouTube",
+    "path": "",
+    "aliases": [
+      "youtube"
+    ]
+  },
+  "mongodbcompass": {
+    "name": "MongoDBCompass",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MongoDB Inc\\MongoDBCompass.lnk",
+    "aliases": [
+      "mongodbcompass"
+    ]
+  },
+  "postman": {
+    "name": "Postman",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Postman\\Postman.lnk",
+    "aliases": [
+      "postman"
+    ]
+  },
+  "idle (python 3.11 64-bit)": {
+    "name": "IDLE (Python 3.11 64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\IDLE (Python 3.11 64-bit).lnk",
+    "aliases": [
+      "idle (python 3.11 64-bit)"
+    ]
+  },
+  "python 3.11 (64-bit)": {
+    "name": "Python 3.11 (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 (64-bit).lnk",
+    "aliases": [
+      "python 3.11 (64-bit)"
+    ]
+  },
+  "python 3.11 manuals (64-bit)": {
+    "name": "Python 3.11 Manuals (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Manuals (64-bit).lnk",
+    "aliases": [
+      "python 3.11 manuals (64-bit)"
+    ]
+  },
+  "python 3.11 module docs (64-bit)": {
+    "name": "Python 3.11 Module Docs (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Module Docs (64-bit).lnk",
+    "aliases": [
+      "python 3.11 module docs (64-bit)"
+    ]
+  },
+  "idle (python 3.12 64-bit)": {
+    "name": "IDLE (Python 3.12 64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\IDLE (Python 3.12 64-bit).lnk",
+    "aliases": [
+      "idle (python 3.12 64-bit)"
+    ]
+  },
+  "python 3.12 (64-bit)": {
+    "name": "Python 3.12 (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 (64-bit).lnk",
+    "aliases": [
+      "python 3.12 (64-bit)"
+    ]
+  },
+  "python 3.12 manuals (64-bit)": {
+    "name": "Python 3.12 Manuals (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 Manuals (64-bit).lnk",
+    "aliases": [
+      "python 3.12 manuals (64-bit)"
+    ]
+  },
+  "python 3.12 module docs (64-bit)": {
+    "name": "Python 3.12 Module Docs (64-bit)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.12\\Python 3.12 Module Docs (64-bit).lnk",
+    "aliases": [
+      "python 3.12 module docs (64-bit)"
+    ]
+  },
+  "administrative tools": {
+    "name": "Administrative Tools",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Administrative Tools.lnk",
+    "aliases": [
+      "administrative tools"
+    ]
+  },
+  "command prompt": {
+    "name": "Command Prompt",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+    "aliases": [
+      "command prompt"
+    ]
+  },
+  "computer": {
+    "name": "computer",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\computer.lnk",
+    "aliases": [
+      "computer"
+    ]
+  },
+  "control panel": {
+    "name": "Control Panel",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+    "aliases": [
+      "control panel"
+    ]
+  },
+  "file explorer": {
+    "name": "File Explorer",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\File Explorer.lnk",
+    "aliases": [
+      "file explorer"
+    ]
+  },
+  "run": {
+    "name": "Run",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+    "aliases": [
+      "run"
+    ]
+  },
+  "kmplayer setup wizard": {
+    "name": "KMPlayer Setup Wizard",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The KMPlayer\\KMPlayer Setup Wizard.lnk",
+    "aliases": [
+      "kmplayer setup wizard"
+    ]
+  },
+  "kmplayer": {
+    "name": "KMPlayer",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The KMPlayer\\KMPlayer.lnk",
+    "aliases": [
+      "kmplayer"
+    ]
+  },
+  "uninstall kmplayer": {
+    "name": "Uninstall KMPlayer",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The KMPlayer\\Uninstall KMPlayer.lnk",
+    "aliases": [
+      "uninstall kmplayer"
+    ]
+  },
+  "visual studio code": {
+    "name": "Visual Studio Code",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "aliases": [
+      "visual studio code",
+      "vs code"
+    ]
+  },
+  "windows powershell (x86)": {
+    "name": "Windows PowerShell (x86)",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+    "aliases": [
+      "windows powershell (x86)"
+    ]
+  },
+  "windows powershell": {
+    "name": "Windows PowerShell",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+    "aliases": [
+      "windows powershell"
+    ]
+  },
+  "console rar manual": {
+    "name": "Console RAR manual",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Console RAR manual.lnk",
+    "aliases": [
+      "console rar manual"
+    ]
+  },
+  "winrar help": {
+    "name": "WinRAR help",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR help.lnk",
+    "aliases": [
+      "winrar help"
+    ]
+  },
+  "winrar": {
+    "name": "WinRAR",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
+    "aliases": [
+      "winrar"
+    ]
+  },
+  "uninstall zoom workplace": {
+    "name": "Uninstall Zoom Workplace",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Uninstall Zoom Workplace.lnk",
+    "aliases": [
+      "uninstall zoom workplace"
+    ]
+  },
+  "zoom workplace": {
+    "name": "Zoom Workplace",
+    "path": "C:\\Users\\HP\\AppData\\Roaming\\Zoom\\bin",
+    "aliases": [
+      "zoom workplace"
+    ]
+  },
+  "adobe reader x": {
+    "name": "Adobe Reader X",
+    "path": "C:\\Program Files (x86)\\Adobe\\Reader 10.0\\Reader\\",
+    "aliases": [
+      "adobe reader x"
+    ]
+  },
+  "google chrome": {
+    "name": "Google Chrome",
+    "path": "C:\\Program Files (x86)\\Google\\Chrome\\Application",
+    "aliases": [
+      "google chrome"
+    ]
+  },
+  "immersive control panel": {
+    "name": "Immersive Control Panel",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Immersive Control Panel.lnk",
+    "aliases": [
+      "immersive control panel"
+    ]
+  },
+  "microsoft edge": {
+    "name": "Microsoft Edge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+    "aliases": [
+      "microsoft edge"
+    ]
+  },
+  "visual studio 2022": {
+    "name": "Visual Studio 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022.lnk",
+    "aliases": [
+      "visual studio 2022"
+    ]
+  },
+  "visual studio installer": {
+    "name": "Visual Studio Installer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk",
+    "aliases": [
+      "visual studio installer"
+    ]
+  },
+  "7-zip file manager": {
+    "name": "7-Zip File Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk",
+    "aliases": [
+      "7-zip file manager"
+    ]
+  },
+  "7-zip help": {
+    "name": "7-Zip Help",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip Help.lnk",
+    "aliases": [
+      "7-zip help"
+    ]
+  },
+  "speech recognition": {
+    "name": "Speech Recognition",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk",
+    "aliases": [
+      "speech recognition"
+    ]
+  },
+  "math input panel": {
+    "name": "Math Input Panel",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Math Input Panel.lnk",
+    "aliases": [
+      "math input panel"
+    ]
+  },
+  "notepad": {
+    "name": "Notepad",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Notepad.lnk",
+    "aliases": [
+      "notepad"
+    ]
+  },
+  "paint": {
+    "name": "Paint",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Paint.lnk",
+    "aliases": [
+      "paint"
+    ]
+  },
+  "quick assist": {
+    "name": "Quick Assist",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk",
+    "aliases": [
+      "quick assist"
+    ]
+  },
+  "remote desktop connection": {
+    "name": "Remote Desktop Connection",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+    "aliases": [
+      "remote desktop connection"
+    ]
+  },
+  "snipping tool": {
+    "name": "Snipping Tool",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Snipping Tool.lnk",
+    "aliases": [
+      "snipping tool"
+    ]
+  },
+  "steps recorder": {
+    "name": "Steps Recorder",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
+    "aliases": [
+      "steps recorder"
+    ]
+  },
+  "windows fax and scan": {
+    "name": "Windows Fax and Scan",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
+    "aliases": [
+      "windows fax and scan"
+    ]
+  },
+  "windows media player": {
+    "name": "Windows Media Player",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk",
+    "aliases": [
+      "windows media player"
+    ]
+  },
+  "wordpad": {
+    "name": "Wordpad",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk",
+    "aliases": [
+      "wordpad"
+    ]
+  },
+  "character map": {
+    "name": "Character Map",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+    "aliases": [
+      "character map"
+    ]
+  },
+  "component services": {
+    "name": "Component Services",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+    "aliases": [
+      "component services"
+    ]
+  },
+  "computer management": {
+    "name": "Computer Management",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+    "aliases": [
+      "computer management"
+    ]
+  },
+  "dfrgui": {
+    "name": "dfrgui",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+    "aliases": [
+      "dfrgui"
+    ]
+  },
+  "disk cleanup": {
+    "name": "Disk Cleanup",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+    "aliases": [
+      "disk cleanup"
+    ]
+  },
+  "event viewer": {
+    "name": "Event Viewer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+    "aliases": [
+      "event viewer"
+    ]
+  },
+  "iscsi initiator": {
+    "name": "iSCSI Initiator",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+    "aliases": [
+      "iscsi initiator"
+    ]
+  },
+  "memory diagnostics tool": {
+    "name": "Memory Diagnostics Tool",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+    "aliases": [
+      "memory diagnostics tool"
+    ]
+  },
+  "odbc data sources (32-bit)": {
+    "name": "ODBC Data Sources (32-bit)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+    "aliases": [
+      "odbc data sources (32-bit)"
+    ]
+  },
+  "odbc data sources (64-bit)": {
+    "name": "ODBC Data Sources (64-bit)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+    "aliases": [
+      "odbc data sources (64-bit)"
+    ]
+  },
+  "performance monitor": {
+    "name": "Performance Monitor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+    "aliases": [
+      "performance monitor"
+    ]
+  },
+  "recoverydrive": {
+    "name": "RecoveryDrive",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+    "aliases": [
+      "recoverydrive"
+    ]
+  },
+  "registry editor": {
+    "name": "Registry Editor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+    "aliases": [
+      "registry editor"
+    ]
+  },
+  "resource monitor": {
+    "name": "Resource Monitor",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+    "aliases": [
+      "resource monitor"
+    ]
+  },
+  "services": {
+    "name": "services",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+    "aliases": [
+      "services"
+    ]
+  },
+  "system configuration": {
+    "name": "System Configuration",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+    "aliases": [
+      "system configuration"
+    ]
+  },
+  "system information": {
+    "name": "System Information",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+    "aliases": [
+      "system information"
+    ]
+  },
+  "task scheduler": {
+    "name": "Task Scheduler",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+    "aliases": [
+      "task scheduler"
+    ]
+  },
+  "windows defender firewall with advanced security": {
+    "name": "Windows Defender Firewall with Advanced Security",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+    "aliases": [
+      "windows defender firewall with advanced security"
+    ]
+  },
+  "webcam companion 3": {
+    "name": "WebCam Companion 3",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ArcSoft WebCam Companion 3\\WebCam Companion 3.lnk",
+    "aliases": [
+      "webcam companion 3"
+    ]
+  },
+  "bit driver updater": {
+    "name": "Bit Driver Updater",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bit Driver Updater\\Bit Driver Updater.lnk",
+    "aliases": [
+      "bit driver updater"
+    ]
+  },
+  "uninstall bit driver updater": {
+    "name": "Uninstall Bit Driver Updater",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bit Driver Updater\\Uninstall Bit Driver Updater.lnk",
+    "aliases": [
+      "uninstall bit driver updater"
+    ]
+  },
+  "git bash": {
+    "name": "Git Bash",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
+    "aliases": [
+      "git bash"
+    ]
+  },
+  "git cmd": {
+    "name": "Git CMD",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
+    "aliases": [
+      "git cmd"
+    ]
+  },
+  "git gui": {
+    "name": "Git GUI",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
+    "aliases": [
+      "git gui"
+    ]
+  },
+  "git release notes": {
+    "name": "Git Release Notes",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk",
+    "aliases": [
+      "git release notes"
+    ]
+  },
+  "microsoft access 2010": {
+    "name": "Microsoft Access 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Access 2010.lnk",
+    "aliases": [
+      "microsoft access 2010"
+    ]
+  },
+  "microsoft excel 2010": {
+    "name": "Microsoft Excel 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Excel 2010.lnk",
+    "aliases": [
+      "microsoft excel 2010"
+    ]
+  },
+  "microsoft infopath designer 2010": {
+    "name": "Microsoft InfoPath Designer 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft InfoPath Designer 2010.lnk",
+    "aliases": [
+      "microsoft infopath designer 2010"
+    ]
+  },
+  "microsoft infopath filler 2010": {
+    "name": "Microsoft InfoPath Filler 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft InfoPath Filler 2010.lnk",
+    "aliases": [
+      "microsoft infopath filler 2010"
+    ]
+  },
+  "microsoft onenote 2010": {
+    "name": "Microsoft OneNote 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft OneNote 2010.lnk",
+    "aliases": [
+      "microsoft onenote 2010"
+    ]
+  },
+  "microsoft outlook 2010": {
+    "name": "Microsoft Outlook 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Outlook 2010.lnk",
+    "aliases": [
+      "microsoft outlook 2010"
+    ]
+  },
+  "microsoft powerpoint 2010": {
+    "name": "Microsoft PowerPoint 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft PowerPoint 2010.lnk",
+    "aliases": [
+      "microsoft powerpoint 2010"
+    ]
+  },
+  "microsoft publisher 2010": {
+    "name": "Microsoft Publisher 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Publisher 2010.lnk",
+    "aliases": [
+      "microsoft publisher 2010"
+    ]
+  },
+  "microsoft sharepoint workspace 2010": {
+    "name": "Microsoft SharePoint Workspace 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SharePoint\\Microsoft SharePoint Workspace 2010.lnk",
+    "aliases": [
+      "microsoft sharepoint workspace 2010"
+    ]
+  },
+  "microsoft word 2010": {
+    "name": "Microsoft Word 2010",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Word 2010.lnk",
+    "aliases": [
+      "microsoft word 2010"
+    ]
+  },
+  "digital certificate for vba projects": {
+    "name": "Digital Certificate for VBA Projects",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Office 2010 Tools\\Digital Certificate for VBA Projects.lnk",
+    "aliases": [
+      "digital certificate for vba projects"
+    ]
+  },
+  "microsoft clip organizer": {
+    "name": "Microsoft Clip Organizer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Office 2010 Tools\\Microsoft Clip Organizer.lnk",
+    "aliases": [
+      "microsoft clip organizer"
+    ]
+  },
+  "microsoft office 2010 language preferences": {
+    "name": "Microsoft Office 2010 Language Preferences",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Office 2010 Tools\\Microsoft Office 2010 Language Preferences.lnk",
+    "aliases": [
+      "microsoft office 2010 language preferences"
+    ]
+  },
+  "microsoft office 2010 upload center": {
+    "name": "Microsoft Office 2010 Upload Center",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Office 2010 Tools\\Microsoft Office 2010 Upload Center.lnk",
+    "aliases": [
+      "microsoft office 2010 upload center"
+    ]
+  },
+  "microsoft office picture manager": {
+    "name": "Microsoft Office Picture Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office\\Microsoft Office 2010 Tools\\Microsoft Office Picture Manager.lnk",
+    "aliases": [
+      "microsoft office picture manager"
+    ]
+  },
+  "install additional tools for node.js": {
+    "name": "Install Additional Tools for Node.js",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Install Additional Tools for Node.js.lnk",
+    "aliases": [
+      "install additional tools for node.js"
+    ]
+  },
+  "node.js command prompt": {
+    "name": "Node.js command prompt",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js command prompt.lnk",
+    "aliases": [
+      "node.js command prompt"
+    ]
+  },
+  "node.js": {
+    "name": "Node.js",
+    "path": "",
+    "aliases": [
+      "node.js"
+    ]
+  },
+  "uninstall node.js": {
+    "name": "Uninstall Node.js",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Uninstall Node.js.lnk",
+    "aliases": [
+      "uninstall node.js"
+    ]
+  },
+  "powertoys (preview)": {
+    "name": "PowerToys (Preview)",
+    "path": "C:\\Program Files\\PowerToys\\",
+    "aliases": [
+      "powertoys (preview)"
+    ]
+  },
+  "task manager": {
+    "name": "Task Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+    "aliases": [
+      "task manager"
+    ]
+  },
+  "documentation": {
+    "name": "Documentation",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk",
+    "aliases": [
+      "documentation"
+    ]
+  },
+  "release notes": {
+    "name": "Release Notes",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Release Notes.lnk",
+    "aliases": [
+      "release notes"
+    ]
+  },
+  "videolan website": {
+    "name": "VideoLAN Website",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VideoLAN Website.lnk",
+    "aliases": [
+      "videolan website"
+    ]
+  },
+  "vlc media player - reset preferences and cache files": {
+    "name": "VLC media player - reset preferences and cache files",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk",
+    "aliases": [
+      "vlc media player - reset preferences and cache files"
+    ]
+  },
+  "vlc media player skinned": {
+    "name": "VLC media player skinned",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk",
+    "aliases": [
+      "vlc media player skinned"
+    ]
+  },
+  "vlc media player": {
+    "name": "VLC media player",
+    "path": "C:\\Program Files\\VideoLAN\\VLC",
+    "aliases": [
+      "vlc media player"
+    ]
+  },
+  "debuggable package manager": {
+    "name": "Debuggable Package Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Debuggable Package Manager.lnk",
+    "aliases": [
+      "debuggable package manager"
+    ]
+  },
+  "developer command prompt for vs 2022": {
+    "name": "Developer Command Prompt for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer Command Prompt for VS 2022.lnk",
+    "aliases": [
+      "developer command prompt for vs 2022"
+    ]
+  },
+  "developer powershell for vs 2022": {
+    "name": "Developer PowerShell for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer PowerShell for VS 2022.lnk",
+    "aliases": [
+      "developer powershell for vs 2022"
+    ]
+  },
+  "x64 native tools command prompt for vs 2022": {
+    "name": "x64 Native Tools Command Prompt for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64 Native Tools Command Prompt for VS 2022.lnk",
+    "aliases": [
+      "x64 native tools command prompt for vs 2022"
+    ]
+  },
+  "x64_x86 cross tools command prompt for vs 2022": {
+    "name": "x64_x86 Cross Tools Command Prompt for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64_x86 Cross Tools Command Prompt for VS 2022.lnk",
+    "aliases": [
+      "x64_x86 cross tools command prompt for vs 2022"
+    ]
+  },
+  "x86 native tools command prompt for vs 2022": {
+    "name": "x86 Native Tools Command Prompt for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86 Native Tools Command Prompt for VS 2022.lnk",
+    "aliases": [
+      "x86 native tools command prompt for vs 2022"
+    ]
+  },
+  "x86_x64 cross tools command prompt for vs 2022": {
+    "name": "x86_x64 Cross Tools Command Prompt for VS 2022",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86_x64 Cross Tools Command Prompt for VS 2022.lnk",
+    "aliases": [
+      "x86_x64 cross tools command prompt for vs 2022"
+    ]
+  },
+  "application verifier (x64)": {
+    "name": "Application Verifier (X64)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier (X64).lnk",
+    "aliases": [
+      "application verifier (x64)"
+    ]
+  },
+  "application verifier help": {
+    "name": "Application Verifier Help",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier Help.lnk",
+    "aliases": [
+      "application verifier help"
+    ]
+  },
+  "application verifier (wow)": {
+    "name": "Application Verifier (WOW)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X86)\\Application Verifier (WOW).lnk",
+    "aliases": [
+      "application verifier (wow)"
+    ]
+  },
+  "windows app cert kit": {
+    "name": "Windows App Cert Kit",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows App Certification Kit\\Windows App Cert Kit.lnk",
+    "aliases": [
+      "windows app cert kit"
+    ]
+  },
+  "gpuview help": {
+    "name": "GPUView Help",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView Help.lnk",
+    "aliases": [
+      "gpuview help"
+    ]
+  },
+  "gpuview": {
+    "name": "GPUView",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView.lnk",
+    "aliases": [
+      "gpuview"
+    ]
+  },
+  "windows performance analyzer": {
+    "name": "Windows Performance Analyzer",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Analyzer.lnk",
+    "aliases": [
+      "windows performance analyzer"
+    ]
+  },
+  "windows performance recorder": {
+    "name": "Windows Performance Recorder",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Recorder.lnk",
+    "aliases": [
+      "windows performance recorder"
+    ]
+  },
+  "documentation for desktop apps": {
+    "name": "Documentation for Desktop Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Desktop Apps.lnk",
+    "aliases": [
+      "documentation for desktop apps"
+    ]
+  },
+  "documentation for windows store apps": {
+    "name": "Documentation for Windows Store Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Windows Store Apps.lnk",
+    "aliases": [
+      "documentation for windows store apps"
+    ]
+  },
+  "samples for desktop apps": {
+    "name": "Samples for Desktop Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Desktop Apps.lnk",
+    "aliases": [
+      "samples for desktop apps"
+    ]
+  },
+  "samples for windows store apps": {
+    "name": "Samples for Windows Store Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Windows Store Apps.lnk",
+    "aliases": [
+      "samples for windows store apps"
+    ]
+  },
+  "tools for desktop apps": {
+    "name": "Tools for Desktop Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Desktop Apps.lnk",
+    "aliases": [
+      "tools for desktop apps"
+    ]
+  },
+  "tools for windows store apps": {
+    "name": "Tools for Windows Store Apps",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Windows Store Apps.lnk",
+    "aliases": [
+      "tools for windows store apps"
+    ]
+  },
+  "windows software development kit": {
+    "name": "Windows Software Development Kit",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk",
+    "aliases": [
+      "windows software development kit"
+    ]
+  },
+  "windows powershell ise (x86)": {
+    "name": "Windows PowerShell ISE (x86)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+    "aliases": [
+      "windows powershell ise (x86)"
+    ]
+  },
+  "windows powershell ise": {
+    "name": "Windows PowerShell ISE",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+    "aliases": [
+      "windows powershell ise"
+    ]
+  },
+  "7-zip 24.07 (x64)": {
+    "name": "7-Zip 24.07 (x64)",
+    "path": "C:\\Program Files\\7-Zip\\",
+    "aliases": [
+      "7-zip 24.07 (x64)"
+    ]
+  },
+  "git": {
+    "name": "Git",
+    "path": "C:\\Program Files\\Git\\",
+    "aliases": [
+      "git"
+    ]
+  },
+  "diagnosticshub_collectionservice": {
+    "name": "DiagnosticsHub_CollectionService",
+    "path": "",
+    "aliases": [
+      "diagnosticshub_collectionservice"
+    ]
+  },
+  "python 3.11.5 development libraries (64-bit)": {
+    "name": "Python 3.11.5 Development Libraries (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 development libraries (64-bit)"
+    ]
+  },
+  "python 3.11.5 tcl/tk support (64-bit)": {
+    "name": "Python 3.11.5 Tcl/Tk Support (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 tcl/tk support (64-bit)"
+    ]
+  },
+  "microsoft update health tools": {
+    "name": "Microsoft Update Health Tools",
+    "path": "",
+    "aliases": [
+      "microsoft update health tools"
+    ]
+  },
+  "application verifier x64 external package (onecoreuap)": {
+    "name": "Application Verifier x64 External Package (OnecoreUAP)",
+    "path": "",
+    "aliases": [
+      "application verifier x64 external package (onecoreuap)"
+    ]
+  },
+  "universal crt tools x64": {
+    "name": "Universal CRT Tools x64",
+    "path": "",
+    "aliases": [
+      "universal crt tools x64"
+    ]
+  },
+  "microsoft visual c++ 2022 x64 minimum runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x64 minimum runtime - 14.42.34438"
+    ]
+  },
+  "python 3.11.5 documentation (64-bit)": {
+    "name": "Python 3.11.5 Documentation (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 documentation (64-bit)"
+    ]
+  },
+  "vs_devenx64vmsi": {
+    "name": "vs_devenx64vmsi",
+    "path": "",
+    "aliases": [
+      "vs_devenx64vmsi"
+    ]
+  },
+  "espeak ng text-to-speech 64-bit": {
+    "name": "eSpeak NG Text-to-Speech 64-bit",
+    "path": "",
+    "aliases": [
+      "espeak ng text-to-speech 64-bit"
+    ]
+  },
+  "python 3.12.4 core interpreter (64-bit)": {
+    "name": "Python 3.12.4 Core Interpreter (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 core interpreter (64-bit)"
+    ]
+  },
+  "python 3.11.5 pip bootstrap (64-bit)": {
+    "name": "Python 3.11.5 pip Bootstrap (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 pip bootstrap (64-bit)"
+    ]
+  },
+  "microsoft system clr types for sql server 2019": {
+    "name": "Microsoft System CLR Types for SQL Server 2019",
+    "path": "",
+    "aliases": [
+      "microsoft system clr types for sql server 2019"
+    ]
+  },
+  "python 3.12.4 standard library (64-bit)": {
+    "name": "Python 3.12.4 Standard Library (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 standard library (64-bit)"
+    ]
+  },
+  "vs jit debugger": {
+    "name": "VS JIT Debugger",
+    "path": "",
+    "aliases": [
+      "vs jit debugger"
+    ]
+  },
+  "python 3.11.5 test suite (64-bit)": {
+    "name": "Python 3.11.5 Test Suite (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 test suite (64-bit)"
+    ]
+  },
+  "microsoft visual studio installer": {
+    "name": "Microsoft Visual Studio Installer",
+    "path": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\"",
+    "aliases": [
+      "microsoft visual studio installer"
+    ]
+  },
+  "vs_graphics_singletonx64": {
+    "name": "vs_Graphics_Singletonx64",
+    "path": "",
+    "aliases": [
+      "vs_graphics_singletonx64"
+    ]
+  },
+  "python 3.12.4 tcl/tk support (64-bit)": {
+    "name": "Python 3.12.4 Tcl/Tk Support (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 tcl/tk support (64-bit)"
+    ]
+  },
+  "windows app certification kit native components": {
+    "name": "Windows App Certification Kit Native Components",
+    "path": "",
+    "aliases": [
+      "windows app certification kit native components"
+    ]
+  },
+  "python 3.12.4 executables (64-bit)": {
+    "name": "Python 3.12.4 Executables (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 executables (64-bit)"
+    ]
+  },
+  "python 3.11.5 executables (64-bit)": {
+    "name": "Python 3.11.5 Executables (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 executables (64-bit)"
+    ]
+  },
+  "vs_minshellx64msi": {
+    "name": "vs_minshellx64msi",
+    "path": "",
+    "aliases": [
+      "vs_minshellx64msi"
+    ]
+  },
+  "python 3.12.4 development libraries (64-bit)": {
+    "name": "Python 3.12.4 Development Libraries (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 development libraries (64-bit)"
+    ]
+  },
+  "windows sdk directx x64 remote": {
+    "name": "Windows SDK DirectX x64 Remote",
+    "path": "",
+    "aliases": [
+      "windows sdk directx x64 remote"
+    ]
+  },
+  "icecap_collection_x64": {
+    "name": "icecap_collection_x64",
+    "path": "",
+    "aliases": [
+      "icecap_collection_x64"
+    ]
+  },
+  "python 3.11.5 utility scripts (64-bit)": {
+    "name": "Python 3.11.5 Utility Scripts (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 utility scripts (64-bit)"
+    ]
+  },
+  "mongodb 7.0.3 2008r2plus ssl (64 bit)": {
+    "name": "MongoDB 7.0.3 2008R2Plus SSL (64 bit)",
+    "path": "",
+    "aliases": [
+      "mongodb 7.0.3 2008r2plus ssl (64 bit)"
+    ]
+  },
+  "microsoft office office 64-bit components 2010": {
+    "name": "Microsoft Office Office 64-bit Components 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office office 64-bit components 2010"
+    ]
+  },
+  "microsoft office shared 64-bit mui (english) 2010": {
+    "name": "Microsoft Office Shared 64-bit MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office shared 64-bit mui (english) 2010"
+    ]
+  },
+  "microsoft office shared 64-bit setup metadata mui (english) 2010": {
+    "name": "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office shared 64-bit setup metadata mui (english) 2010"
+    ]
+  },
+  "mongodb shell": {
+    "name": "MongoDB Shell",
+    "path": "C:\\Users\\HP\\AppData\\Local\\Programs\\mongosh\\",
+    "aliases": [
+      "mongodb shell"
+    ]
+  },
+  "microsoft visual c++ 2022 x64 debug runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x64 debug runtime - 14.42.34438"
+    ]
+  },
+  "application verifier x64 external package": {
+    "name": "Application Verifier x64 External Package",
+    "path": "",
+    "aliases": [
+      "application verifier x64 external package"
+    ]
+  },
+  "python 3.12.4 test suite (64-bit)": {
+    "name": "Python 3.12.4 Test Suite (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 test suite (64-bit)"
+    ]
+  },
+  "python 3.12.4 documentation (64-bit)": {
+    "name": "Python 3.12.4 Documentation (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 documentation (64-bit)"
+    ]
+  },
+  "python 3.11.5 core interpreter (64-bit)": {
+    "name": "Python 3.11.5 Core Interpreter (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 core interpreter (64-bit)"
+    ]
+  },
+  "application verifier x64 external package (desktopeditions)": {
+    "name": "Application Verifier x64 External Package (DesktopEditions)",
+    "path": "",
+    "aliases": [
+      "application verifier x64 external package (desktopeditions)"
+    ]
+  },
+  "vs_communityx64msi": {
+    "name": "vs_communityx64msi",
+    "path": "",
+    "aliases": [
+      "vs_communityx64msi"
+    ]
+  },
+  "python 3.11.5 standard library (64-bit)": {
+    "name": "Python 3.11.5 Standard Library (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 standard library (64-bit)"
+    ]
+  },
+  "java(tm) se development kit 20.0.2 (64-bit)": {
+    "name": "Java(TM) SE Development Kit 20.0.2 (64-bit)",
+    "path": "C:\\Program Files\\Java\\jdk-20\\",
+    "aliases": [
+      "java(tm) se development kit 20.0.2 (64-bit)"
+    ]
+  },
+  "update for x64-based windows systems (kb5001716)": {
+    "name": "Update for x64-based Windows Systems (KB5001716)",
+    "path": "",
+    "aliases": [
+      "update for x64-based windows systems (kb5001716)"
+    ]
+  },
+  "vs_minshellinteropx64msi": {
+    "name": "vs_minshellinteropx64msi",
+    "path": "",
+    "aliases": [
+      "vs_minshellinteropx64msi"
+    ]
+  },
+  "microsoft visual c++ 2022 x64 additional runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x64 additional runtime - 14.42.34438"
+    ]
+  },
+  "microsoft sql server 2019 localdb ": {
+    "name": "Microsoft SQL Server 2019 LocalDB ",
+    "path": "",
+    "aliases": [
+      "microsoft sql server 2019 localdb "
+    ]
+  },
+  "python 3.12.4 pip bootstrap (64-bit)": {
+    "name": "Python 3.12.4 pip Bootstrap (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 pip bootstrap (64-bit)"
+    ]
+  },
+  "vs script debugging common": {
+    "name": "VS Script Debugging Common",
+    "path": "",
+    "aliases": [
+      "vs script debugging common"
+    ]
+  },
+  "intellitraceprofilerproxy": {
+    "name": "IntelliTraceProfilerProxy",
+    "path": "",
+    "aliases": [
+      "intellitraceprofilerproxy"
+    ]
+  },
+  "visual studio enterprise 2022": {
+    "name": "Visual Studio Enterprise 2022",
+    "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise",
+    "aliases": [
+      "visual studio enterprise 2022"
+    ]
+  },
+  "microsoft edge webview2 runtime": {
+    "name": "Microsoft Edge WebView2 Runtime",
+    "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+    "aliases": [
+      "microsoft edge webview2 runtime"
+    ]
+  },
+  "microsoft office professional plus 2010": {
+    "name": "Microsoft Office Professional Plus 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office professional plus 2010"
+    ]
+  },
+  "the kmplayer (remove only)": {
+    "name": "The KMPlayer (remove only)",
+    "path": "",
+    "aliases": [
+      "the kmplayer (remove only)"
+    ]
+  },
+  "winrar archiver": {
+    "name": "WinRAR archiver",
+    "path": "",
+    "aliases": [
+      "winrar archiver"
+    ]
+  },
+  "intel(r) wireless bluetooth(r)": {
+    "name": "Intel(R) Wireless Bluetooth(R)",
+    "path": "C:\\Program Files (x86)\\Intel\\",
+    "aliases": [
+      "intel(r) wireless bluetooth(r)"
+    ]
+  },
+  "windows team extension sdk": {
+    "name": "Windows Team Extension SDK",
+    "path": "",
+    "aliases": [
+      "windows team extension sdk"
+    ]
+  },
+  "windows mobile extension sdk contracts": {
+    "name": "Windows Mobile Extension SDK Contracts",
+    "path": "",
+    "aliases": [
+      "windows mobile extension sdk contracts"
+    ]
+  },
+  "windows sdk for windows store managed apps libs": {
+    "name": "Windows SDK for Windows Store Managed Apps Libs",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store managed apps libs"
+    ]
+  },
+  "windows sdk desktop tools arm64": {
+    "name": "Windows SDK Desktop Tools arm64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop tools arm64"
+    ]
+  },
+  "windows sdk modern versioned developer tools": {
+    "name": "Windows SDK Modern Versioned Developer Tools",
+    "path": "",
+    "aliases": [
+      "windows sdk modern versioned developer tools"
+    ]
+  },
+  "windows sdk eula": {
+    "name": "Windows SDK EULA",
+    "path": "",
+    "aliases": [
+      "windows sdk eula"
+    ]
+  },
+  "universal crt headers libraries and sources": {
+    "name": "Universal CRT Headers Libraries and Sources",
+    "path": "",
+    "aliases": [
+      "universal crt headers libraries and sources"
+    ]
+  },
+  "vs_coreeditorfonts": {
+    "name": "vs_CoreEditorFonts",
+    "path": "",
+    "aliases": [
+      "vs_coreeditorfonts"
+    ]
+  },
+  "windows sdk desktop libs x64": {
+    "name": "Windows SDK Desktop Libs x64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop libs x64"
+    ]
+  },
+  "vs_devenvsharedmsi": {
+    "name": "vs_devenvsharedmsi",
+    "path": "",
+    "aliases": [
+      "vs_devenvsharedmsi"
+    ]
+  },
+  "wptx64 (onecoreuap)": {
+    "name": "WPTx64 (OnecoreUAP)",
+    "path": "",
+    "aliases": [
+      "wptx64 (onecoreuap)"
+    ]
+  },
+  "universal crt redistributable": {
+    "name": "Universal CRT Redistributable",
+    "path": "",
+    "aliases": [
+      "universal crt redistributable"
+    ]
+  },
+  "windows sdk signing tools": {
+    "name": "Windows SDK Signing Tools",
+    "path": "",
+    "aliases": [
+      "windows sdk signing tools"
+    ]
+  },
+  "vs_githubprotocolhandlermsi": {
+    "name": "vs_githubprotocolhandlermsi",
+    "path": "",
+    "aliases": [
+      "vs_githubprotocolhandlermsi"
+    ]
+  },
+  "windows sdk desktop headers x86": {
+    "name": "Windows SDK Desktop Headers x86",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop headers x86"
+    ]
+  },
+  "windows sdk desktop libs x86": {
+    "name": "Windows SDK Desktop Libs x86",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop libs x86"
+    ]
+  },
+  "winrt intellisense uap - other languages": {
+    "name": "WinRT Intellisense UAP - Other Languages",
+    "path": "",
+    "aliases": [
+      "winrt intellisense uap - other languages"
+    ]
+  },
+  "windows sdk desktop headers x64": {
+    "name": "Windows SDK Desktop Headers x64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop headers x64"
+    ]
+  },
+  "windows app certification kit x64": {
+    "name": "Windows App Certification Kit x64",
+    "path": "",
+    "aliases": [
+      "windows app certification kit x64"
+    ]
+  },
+  "sdk arm additions": {
+    "name": "SDK ARM Additions",
+    "path": "",
+    "aliases": [
+      "sdk arm additions"
+    ]
+  },
+  "windows sdk": {
+    "name": "Windows SDK",
+    "path": "",
+    "aliases": [
+      "windows sdk"
+    ]
+  },
+  "vs_communitymsires": {
+    "name": "vs_communitymsires",
+    "path": "",
+    "aliases": [
+      "vs_communitymsires"
+    ]
+  },
+  "windows sdk desktop libs arm": {
+    "name": "Windows SDK Desktop Libs arm",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop libs arm"
+    ]
+  },
+  "winappdeploy": {
+    "name": "WinAppDeploy",
+    "path": "",
+    "aliases": [
+      "winappdeploy"
+    ]
+  },
+  "windows sdk for windows store apps directx x86 remote": {
+    "name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps directx x86 remote"
+    ]
+  },
+  "windows sdk desktop headers arm": {
+    "name": "Windows SDK Desktop Headers arm",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop headers arm"
+    ]
+  },
+  "arcsoft webcam companion 3": {
+    "name": "ArcSoft WebCam Companion 3",
+    "path": "C:\\Program Files (x86)\\ArcSoft\\WebCam Companion 3\\",
+    "aliases": [
+      "arcsoft webcam companion 3"
+    ]
+  },
+  "windows sdk for windows store apps tools": {
+    "name": "Windows SDK for Windows Store Apps Tools",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps tools"
+    ]
+  },
+  "vs_communitysharedmsi": {
+    "name": "vs_communitysharedmsi",
+    "path": "",
+    "aliases": [
+      "vs_communitysharedmsi"
+    ]
+  },
+  "universal crt tools x86": {
+    "name": "Universal CRT Tools x86",
+    "path": "",
+    "aliases": [
+      "universal crt tools x86"
+    ]
+  },
+  "msi development tools": {
+    "name": "MSI Development Tools",
+    "path": "",
+    "aliases": [
+      "msi development tools"
+    ]
+  },
+  "winrt intellisense iot - other languages": {
+    "name": "WinRT Intellisense IoT - Other Languages",
+    "path": "",
+    "aliases": [
+      "winrt intellisense iot - other languages"
+    ]
+  },
+  "vs_codecoveragemsi": {
+    "name": "vs_codecoveragemsi",
+    "path": "",
+    "aliases": [
+      "vs_codecoveragemsi"
+    ]
+  },
+  "python launcher": {
+    "name": "Python Launcher",
+    "path": "",
+    "aliases": [
+      "python launcher"
+    ]
+  },
+  "vs_filehandler_amd64": {
+    "name": "vs_filehandler_amd64",
+    "path": "",
+    "aliases": [
+      "vs_filehandler_amd64"
+    ]
+  },
+  "windows sdk redistributables": {
+    "name": "Windows SDK Redistributables",
+    "path": "",
+    "aliases": [
+      "windows sdk redistributables"
+    ]
+  },
+  "winrt intellisense iot - en-us": {
+    "name": "WinRT Intellisense IoT - en-us",
+    "path": "",
+    "aliases": [
+      "winrt intellisense iot - en-us"
+    ]
+  },
+  "microsoft visual studio setup wmi provider": {
+    "name": "Microsoft Visual Studio Setup WMI Provider",
+    "path": "",
+    "aliases": [
+      "microsoft visual studio setup wmi provider"
+    ]
+  },
+  "windows mobile extension sdk": {
+    "name": "Windows Mobile Extension SDK",
+    "path": "",
+    "aliases": [
+      "windows mobile extension sdk"
+    ]
+  },
+  "windows sdk for windows store apps metadata": {
+    "name": "Windows SDK for Windows Store Apps Metadata",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps metadata"
+    ]
+  },
+  "kits configuration installer": {
+    "name": "Kits Configuration Installer",
+    "path": "",
+    "aliases": [
+      "kits configuration installer"
+    ]
+  },
+  "vs_vswebprotocolselectormsi": {
+    "name": "vs_vswebprotocolselectormsi",
+    "path": "",
+    "aliases": [
+      "vs_vswebprotocolselectormsi"
+    ]
+  },
+  "windows sdk arm desktop tools": {
+    "name": "Windows SDK ARM Desktop Tools",
+    "path": "",
+    "aliases": [
+      "windows sdk arm desktop tools"
+    ]
+  },
+  "winrt intellisense desktop - other languages": {
+    "name": "WinRT Intellisense Desktop - Other Languages",
+    "path": "",
+    "aliases": [
+      "winrt intellisense desktop - other languages"
+    ]
+  },
+  "winrt intellisense ppi - other languages": {
+    "name": "WinRT Intellisense PPI - Other Languages",
+    "path": "",
+    "aliases": [
+      "winrt intellisense ppi - other languages"
+    ]
+  },
+  "winrt intellisense ppi - en-us": {
+    "name": "WinRT Intellisense PPI - en-us",
+    "path": "",
+    "aliases": [
+      "winrt intellisense ppi - en-us"
+    ]
+  },
+  "microsoft visual c++ 2022 x86 minimum runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x86 minimum runtime - 14.42.34438"
+    ]
+  },
+  "vs_graphics_singletonx86": {
+    "name": "vs_Graphics_Singletonx86",
+    "path": "",
+    "aliases": [
+      "vs_graphics_singletonx86"
+    ]
+  },
+  "windows sdk for windows store apps contracts": {
+    "name": "Windows SDK for Windows Store Apps Contracts",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps contracts"
+    ]
+  },
+  "vs_minshellsharedmsi": {
+    "name": "vs_minshellsharedmsi",
+    "path": "",
+    "aliases": [
+      "vs_minshellsharedmsi"
+    ]
+  },
+  "windows sdk for windows store apps": {
+    "name": "Windows SDK for Windows Store Apps",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps"
+    ]
+  },
+  "windows software development kit - windows 10.0.20348.1": {
+    "name": "Windows Software Development Kit - Windows 10.0.20348.1",
+    "path": "",
+    "aliases": [
+      "windows software development kit - windows 10.0.20348.1"
+    ]
+  },
+  "windows software development kit - windows 10.0.22621.3233": {
+    "name": "Windows Software Development Kit - Windows 10.0.22621.3233",
+    "path": "",
+    "aliases": [
+      "windows software development kit - windows 10.0.22621.3233"
+    ]
+  },
+  "vs_minshellmsires": {
+    "name": "vs_minshellmsires",
+    "path": "",
+    "aliases": [
+      "vs_minshellmsires"
+    ]
+  },
+  "microsoft visual c++ 2022 x86 debug runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x86 debug runtime - 14.42.34438"
+    ]
+  },
+  "windows app certification kit x64 (onecoreuap)": {
+    "name": "Windows App Certification Kit x64 (OnecoreUAP)",
+    "path": "",
+    "aliases": [
+      "windows app certification kit x64 (onecoreuap)"
+    ]
+  },
+  "windows sdk for windows store apps headers": {
+    "name": "Windows SDK for Windows Store Apps Headers",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps headers"
+    ]
+  },
+  "windows sdk modern non-versioned developer tools": {
+    "name": "Windows SDK Modern Non-Versioned Developer Tools",
+    "path": "",
+    "aliases": [
+      "windows sdk modern non-versioned developer tools"
+    ]
+  },
+  "windows sdk facade windows winmd versioned": {
+    "name": "Windows SDK Facade Windows WinMD Versioned",
+    "path": "",
+    "aliases": [
+      "windows sdk facade windows winmd versioned"
+    ]
+  },
+  "windows desktop extension sdk contracts": {
+    "name": "Windows Desktop Extension SDK Contracts",
+    "path": "",
+    "aliases": [
+      "windows desktop extension sdk contracts"
+    ]
+  },
+  "winrt intellisense mobile - en-us": {
+    "name": "WinRT Intellisense Mobile - en-us",
+    "path": "",
+    "aliases": [
+      "winrt intellisense mobile - en-us"
+    ]
+  },
+  "windows sdk directx x86 remote": {
+    "name": "Windows SDK DirectX x86 Remote",
+    "path": "",
+    "aliases": [
+      "windows sdk directx x86 remote"
+    ]
+  },
+  "vcpp_crt.redist.clickonce": {
+    "name": "vcpp_crt.redist.clickonce",
+    "path": "",
+    "aliases": [
+      "vcpp_crt.redist.clickonce"
+    ]
+  },
+  "windows sdk desktop libs arm64": {
+    "name": "Windows SDK Desktop Libs arm64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop libs arm64"
+    ]
+  },
+  "winrt intellisense uap - en-us": {
+    "name": "WinRT Intellisense UAP - en-us",
+    "path": "",
+    "aliases": [
+      "winrt intellisense uap - en-us"
+    ]
+  },
+  "windows iot extension sdk contracts": {
+    "name": "Windows IoT Extension SDK Contracts",
+    "path": "",
+    "aliases": [
+      "windows iot extension sdk contracts"
+    ]
+  },
+  "icecap_collectionresources": {
+    "name": "icecap_collectionresources",
+    "path": "",
+    "aliases": [
+      "icecap_collectionresources"
+    ]
+  },
+  "microsoft office access mui (english) 2010": {
+    "name": "Microsoft Office Access MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office access mui (english) 2010"
+    ]
+  },
+  "microsoft office excel mui (english) 2010": {
+    "name": "Microsoft Office Excel MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office excel mui (english) 2010"
+    ]
+  },
+  "microsoft office powerpoint mui (english) 2010": {
+    "name": "Microsoft Office PowerPoint MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office powerpoint mui (english) 2010"
+    ]
+  },
+  "microsoft office publisher mui (english) 2010": {
+    "name": "Microsoft Office Publisher MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office publisher mui (english) 2010"
+    ]
+  },
+  "microsoft office outlook mui (english) 2010": {
+    "name": "Microsoft Office Outlook MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office outlook mui (english) 2010"
+    ]
+  },
+  "microsoft office word mui (english) 2010": {
+    "name": "Microsoft Office Word MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office word mui (english) 2010"
+    ]
+  },
+  "microsoft office proof (english) 2010": {
+    "name": "Microsoft Office Proof (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office proof (english) 2010"
+    ]
+  },
+  "microsoft office proof (french) 2010": {
+    "name": "Microsoft Office Proof (French) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office proof (french) 2010"
+    ]
+  },
+  "microsoft office proof (spanish) 2010": {
+    "name": "Microsoft Office Proof (Spanish) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office proof (spanish) 2010"
+    ]
+  },
+  "microsoft office proofing (english) 2010": {
+    "name": "Microsoft Office Proofing (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office proofing (english) 2010"
+    ]
+  },
+  "microsoft office infopath mui (english) 2010": {
+    "name": "Microsoft Office InfoPath MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office infopath mui (english) 2010"
+    ]
+  },
+  "microsoft office shared mui (english) 2010": {
+    "name": "Microsoft Office Shared MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office shared mui (english) 2010"
+    ]
+  },
+  "microsoft office onenote mui (english) 2010": {
+    "name": "Microsoft Office OneNote MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office onenote mui (english) 2010"
+    ]
+  },
+  "microsoft office groove mui (english) 2010": {
+    "name": "Microsoft Office Groove MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office groove mui (english) 2010"
+    ]
+  },
+  "microsoft office shared setup metadata mui (english) 2010": {
+    "name": "Microsoft Office Shared Setup Metadata MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office shared setup metadata mui (english) 2010"
+    ]
+  },
+  "microsoft office access setup metadata mui (english) 2010": {
+    "name": "Microsoft Office Access Setup Metadata MUI (English) 2010",
+    "path": "C:\\Program Files (x86)\\Microsoft Office\\",
+    "aliases": [
+      "microsoft office access setup metadata mui (english) 2010"
+    ]
+  },
+  "universal general midi dls extension sdk": {
+    "name": "Universal General MIDI DLS Extension SDK",
+    "path": "",
+    "aliases": [
+      "universal general midi dls extension sdk"
+    ]
+  },
+  "windows sdk desktop headers arm64": {
+    "name": "Windows SDK Desktop Headers arm64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop headers arm64"
+    ]
+  },
+  "vs_filetracker_singleton": {
+    "name": "vs_FileTracker_Singleton",
+    "path": "",
+    "aliases": [
+      "vs_filetracker_singleton"
+    ]
+  },
+  "vs_minshellinteropsharedmsi": {
+    "name": "vs_minshellinteropsharedmsi",
+    "path": "",
+    "aliases": [
+      "vs_minshellinteropsharedmsi"
+    ]
+  },
+  "icecap_collectionresourcesx64": {
+    "name": "icecap_collectionresourcesx64",
+    "path": "",
+    "aliases": [
+      "icecap_collectionresourcesx64"
+    ]
+  },
+  "universal crt extension sdk": {
+    "name": "Universal CRT Extension SDK",
+    "path": "",
+    "aliases": [
+      "universal crt extension sdk"
+    ]
+  },
+  "microsoft visual c++ 2022 x86 additional runtime - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2022 x86 additional runtime - 14.42.34438"
+    ]
+  },
+  "wpt redistributables": {
+    "name": "WPT Redistributables",
+    "path": "",
+    "aliases": [
+      "wpt redistributables"
+    ]
+  },
+  "powertoys (preview) x64": {
+    "name": "PowerToys (Preview) x64",
+    "path": "",
+    "aliases": [
+      "powertoys (preview) x64"
+    ]
+  },
+  "winrt intellisense desktop - en-us": {
+    "name": "WinRT Intellisense Desktop - en-us",
+    "path": "",
+    "aliases": [
+      "winrt intellisense desktop - en-us"
+    ]
+  },
+  "microsoft visual c++ 2015-2022 redistributable (x64) - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2015-2022 redistributable (x64) - 14.42.34438"
+    ]
+  },
+  "sdk arm redistributables": {
+    "name": "SDK ARM Redistributables",
+    "path": "",
+    "aliases": [
+      "sdk arm redistributables"
+    ]
+  },
+  "microsoft visual c++ 2015-2022 redistributable (x86) - 14.42.34438": {
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+    "path": "",
+    "aliases": [
+      "microsoft visual c++ 2015-2022 redistributable (x86) - 14.42.34438"
+    ]
+  },
+  "vs immersive activate helper": {
+    "name": "VS Immersive Activate Helper",
+    "path": "",
+    "aliases": [
+      "vs immersive activate helper"
+    ]
+  },
+  "windows sdk desktop tools x64": {
+    "name": "Windows SDK Desktop Tools x64",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop tools x64"
+    ]
+  },
+  "vs_networkemulationmsi_x64": {
+    "name": "vs_networkemulationmsi_x64",
+    "path": "",
+    "aliases": [
+      "vs_networkemulationmsi_x64"
+    ]
+  },
+  "windows app certification kit supportedapilist x86": {
+    "name": "Windows App Certification Kit SupportedApiList x86",
+    "path": "",
+    "aliases": [
+      "windows app certification kit supportedapilist x86"
+    ]
+  },
+  "windows sdk desktop tools x86": {
+    "name": "Windows SDK Desktop Tools x86",
+    "path": "",
+    "aliases": [
+      "windows sdk desktop tools x86"
+    ]
+  },
+  "windows sdk for windows store apps libs": {
+    "name": "Windows SDK for Windows Store Apps Libs",
+    "path": "",
+    "aliases": [
+      "windows sdk for windows store apps libs"
+    ]
+  },
+  "windows iot extension sdk": {
+    "name": "Windows IoT Extension SDK",
+    "path": "",
+    "aliases": [
+      "windows iot extension sdk"
+    ]
+  },
+  "microsoft visual studio setup configuration": {
+    "name": "Microsoft Visual Studio Setup Configuration",
+    "path": "",
+    "aliases": [
+      "microsoft visual studio setup configuration"
+    ]
+  },
+  "windows desktop extension sdk": {
+    "name": "Windows Desktop Extension SDK",
+    "path": "",
+    "aliases": [
+      "windows desktop extension sdk"
+    ]
+  },
+  "wptx64 (desktopeditions)": {
+    "name": "WPTx64 (DesktopEditions)",
+    "path": "",
+    "aliases": [
+      "wptx64 (desktopeditions)"
+    ]
+  },
+  "icecap_collection_neutral": {
+    "name": "icecap_collection_neutral",
+    "path": "",
+    "aliases": [
+      "icecap_collection_neutral"
+    ]
+  },
+  "vs_tipsmsi": {
+    "name": "vs_tipsmsi",
+    "path": "",
+    "aliases": [
+      "vs_tipsmsi"
+    ]
+  },
+  "windows sdk addon": {
+    "name": "Windows SDK AddOn",
+    "path": "",
+    "aliases": [
+      "windows sdk addon"
+    ]
+  },
+  "vs_filehandler_x86": {
+    "name": "vs_filehandler_x86",
+    "path": "",
+    "aliases": [
+      "vs_filehandler_x86"
+    ]
+  },
+  "windows team extension sdk contracts": {
+    "name": "Windows Team Extension SDK Contracts",
+    "path": "",
+    "aliases": [
+      "windows team extension sdk contracts"
+    ]
+  },
+  "mongodb compass": {
+    "name": "MongoDB Compass",
+    "path": "C:\\Users\\HP\\AppData\\Local\\MongoDBCompass",
+    "aliases": [
+      "mongodb compass"
+    ]
+  },
+  "microsoft onedrive": {
+    "name": "Microsoft OneDrive",
+    "path": "",
+    "aliases": [
+      "microsoft onedrive"
+    ]
+  },
+  "postman x86_64 11.23.3": {
+    "name": "Postman x86_64 11.23.3",
+    "path": "C:\\Users\\HP\\AppData\\Local\\Postman",
+    "aliases": [
+      "postman x86_64 11.23.3"
+    ]
+  },
+  "python 3.11.5 (64-bit)": {
+    "name": "Python 3.11.5 (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.11.5 (64-bit)"
+    ]
+  },
+  "ollama version 0.6.1": {
+    "name": "Ollama version 0.6.1",
+    "path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Ollama\\",
+    "aliases": [
+      "ollama version 0.6.1"
+    ]
+  },
+  "microsoft visual studio code (user)": {
+    "name": "Microsoft Visual Studio Code (User)",
+    "path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+    "aliases": [
+      "microsoft visual studio code (user)"
+    ]
+  },
+  "python 3.12.4 (64-bit)": {
+    "name": "Python 3.12.4 (64-bit)",
+    "path": "",
+    "aliases": [
+      "python 3.12.4 (64-bit)"
+    ]
+  }
+}
