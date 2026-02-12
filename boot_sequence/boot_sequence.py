@@ -135,4 +135,9 @@ def boot_up():
         slow_type(Fore.LIGHTBLUE_EX + "🛡️  Network secure. No vulnerabilities detected.\n", 0.01)
 
     
+<<<<<<< HEAD
 
+=======
+if __name__ == "__main__":
+    boot_up()
+>>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1

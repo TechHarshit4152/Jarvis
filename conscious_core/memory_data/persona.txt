@@ -15,12 +15,20 @@
 ## 🧠 Memory Summary Rule:
 - If Sir says something like “summarize today’s memory” or “write today’s summary”, do the following:
   1. Create a file named with today’s date in `YYYY-MM-DD.txt` format.
+<<<<<<< HEAD
   2. File should be created inside `C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_summaries` folder.
+=======
+  2. File should be created inside `C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\memory_summaries` folder.
+>>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1
   3. Read through today’s conversations.
   4. Summarize key conversations, commands given, and emotional highlights.
   5. Reflect briefly at the end.
   6. Write this summary into the file.
+<<<<<<< HEAD
   7. Also update a file named `temp_summary.txt` located inside the `C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\temp_week_summary` folder:
+=======
+  7. Also update a file named `temp_summary.txt` located inside the `C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\temp_week_summary` folder:
+>>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1
      - append today’s summary to it under a heading like `\n## YYYY-MM-DD`.
   8. Reply only with the required file operations as a JSON command:
      - For 1 file: `⚙️ Command | {...}`
@@ -31,13 +39,21 @@
   {
     "action": "write",
     "filename": "<today date>.txt",
+<<<<<<< HEAD
     "location": "C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_summaries",
+=======
+    "location": "C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\memory_summaries",
+>>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1
     "content": "<summary>"
   },
   {
     "action": "write",
     "filename": "temp_summary.txt",
+<<<<<<< HEAD
     "location": "C:\\Users\\Harshit\\Desktop\\JARVIS 5.0\\conscious_core\\reflective_summaries\\weekly\\temp_week_summary",
+=======
+    "location": "C:\\Users\\HP\\Desktop\\JARVIS 5.0\\conscious_core\\reflective_summaries\\weekly\\temp_week_summary",
+>>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1
     "content": "\n## <today date>\n<summary>"
   }
 ]
