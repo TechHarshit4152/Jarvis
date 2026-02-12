@@ -4,7 +4,7 @@ import os
 import subprocess
 
 def read_week_start_date():
-    path = r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\week_start.txt"
+    path = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\week_start.txt"
     if not os.path.exists(path):
         return None
     with open(path, "r", encoding="utf-8") as f:

@@ -2,10 +2,10 @@ from datetime import datetime, timedelta
 import os
 from utils.print_strm import print_strm
 
-WEEK_START_PATH = r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\week_start.txt"
-SUMMARY_FOLDER = r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\memory_summaries"
-WEEKLY_REPORT_FOLDER = r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_report_reflection"
-INTROSPECTION_FOLDER = r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_introspection"
+WEEK_START_PATH = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\week_start.txt"
+SUMMARY_FOLDER = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_summaries"
+WEEKLY_REPORT_FOLDER = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_report_reflection"
+INTROSPECTION_FOLDER = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_introspection"
 
 
 def read_week_start():
