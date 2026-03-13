@@ -2,6 +2,7 @@ from utils.print_strm import print_strm
 from utils.exit_procedure import handle_exit_procedure
 from conscious_core.memory_manager import append_to_chat_file
 from utils.boot_message import dynamic_boot
+from task_scheduler.scheduler_thread import start_scheduler
 import threading
 import json
 from datetime import datetime
@@ -18,6 +19,8 @@ threading.Thread(
     daemon=True
 ).start()
 
+
+start_scheduler()
 
 try:
 

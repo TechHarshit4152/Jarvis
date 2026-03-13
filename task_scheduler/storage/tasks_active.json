@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "id": "2af0efc3-9692-4f8b-9505-dc95bfaa4420",
+            "task": "Check order details",
+            "task_hash": "fd5fe3b90d065edd0fbc3138e7d65ed4",
+            "created_at": "2026-03-13T23:43:00.915911",
+            "schedule": {
+                "date": "2026-03-14",
+                "time": "13:00"
+            },
+            "status": "pending",
+            "triggered": false,
+            "completed_at": null
+        }
+    ]
+}
