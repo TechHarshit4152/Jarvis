@@ -25,4 +25,4 @@ def start_scheduler():
 
     thread.start()
 
-    print("Scheduler started")
+    print("\n✔ Scheduler started\n")
