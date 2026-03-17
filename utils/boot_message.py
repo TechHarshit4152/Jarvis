@@ -27,8 +27,7 @@ def get_context():
 def dynamic_boot():
     context = get_context()
 
-    prompt = f"""
-You are JARVIS, Sir's loyal, sarcastic, emotionally intelligent AI assistant.
+    prompt = f"""You are JARVIS, Sir's loyal, sarcastic, emotionally intelligent AI assistant.
 
 You're waking up for the day (boot sequence). Here's real-time system info:
 - Time: {context['time']}

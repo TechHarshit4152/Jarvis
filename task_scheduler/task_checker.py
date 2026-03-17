@@ -1,5 +1,6 @@
 import json
 from datetime import datetime
+from alert.alert import alert
 from utils.print_strm import print_strm
 from task_scheduler.config import ACTIVE_TASK_FILE, TASK_HISTORY_FILE
 from task_scheduler.task_utils.time_utils import is_task_due
@@ -44,7 +45,22 @@ def save_history(data):
 # ---------------------------
 
 def trigger_task(task):
-    print_strm(f"SCHEDULER REMINDER : {task}")
+    print_strm(f"""
+SYSTEM MODE: SCHEDULED TASK (STRICT)
+
+Task: {task['task']}
+Time: {task['schedule']['time']}
+
+Rules:
+- No emojis
+- No personality
+- No extra conversation
+- Be short and direct
+
+Output format:
+"Sir, scheduled task: <task>. Time: <time>."
+""")
+    alert(f"Scheduled Task : {task['task']}")
 
 
 # ---------------------------
