@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from daily_summary_automation.date_manager import write_today_date, read_stored_date
+from daily_summary_automation.date_manager import write_today_date, read_stored_date, save_last_summary_date
 from utils.print_strm import print_strm
 
 
@@ -52,7 +52,8 @@ def handle_new_day():
         if chat_history.strip():
             summary = process_summary(chat_history)
             save_summary(summary)
-
+            save_last_summary_date()
+            
     reset_chat_file()
     write_today_date()
 

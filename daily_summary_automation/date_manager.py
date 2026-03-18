@@ -2,6 +2,7 @@ import os
 from datetime import datetime
 
 DATE_FILE = r"daily_summary_automation/chat_date.txt"
+LAST_SUMMARY_DATE_FILE = r"daily_summary_automation/last_summary_date.txt"
 
 
 def get_today_date():
@@ -22,6 +23,11 @@ def write_today_date():
     today = get_today_date()
     with open(DATE_FILE, "w") as f:
         f.write(today)
+
+def save_last_summary_date():
+    date = read_stored_date()
+    with open(LAST_SUMMARY_DATE_FILE, "w") as f:
+        f.write(date)
 
 
 def is_new_day():

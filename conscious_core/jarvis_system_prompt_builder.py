@@ -2,6 +2,8 @@ from datetime import datetime, timedelta
 import random
 import os
 
+from daily_summary_automation.date_manager import DATE_FILE, LAST_SUMMARY_DATE_FILE
+
 def get_date_str(delta_days=0):
     return (datetime.now() - timedelta(days=delta_days)).strftime("%Y-%m-%d")
 
@@ -27,7 +29,7 @@ Current Session Time: {session_time}
 """
 
 def recall_chat_history(limit=10):
-    file_path = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_data\chat_history.txt"
+    file_path = r"C:\Users\Harshit\Desktop\JARVIS 5.0\daily_summary_automation\daily_chat_history.txt"
     if not os.path.exists(file_path):
         return "## 📖 Memory Recall:\n- No previous memory found."
 
@@ -50,26 +52,33 @@ def recall_chat_history(limit=10):
 
 def load_memory_summary(limit=5):
     summary_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_summaries"
-    memory_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_data"
-    last_session_path = os.path.join(memory_dir, "last_session.txt")
+    memory_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\daily_summary_automation"
+    last_session_path = os.path.join(memory_dir, "chat_date.txt")
 
     today = get_date_str(0)
-    yesterday = get_date_str(1)
 
     last_session = read_file(last_session_path) or today
 
     memory = "## 📖 Memory Recall:\n"
 
-    yesterday_summary = read_file(os.path.join(summary_dir, f"{yesterday}.txt"))
-    if yesterday_summary:
-        memory += f"[{yesterday}] 🔹 {yesterday_summary}\n"
+    chat_date_summary = read_file(os.path.join(summary_dir, f"{last_session}.txt"))
+
+    if chat_date_summary:
+        memory += f" 🔹 {chat_date_summary}\n LINE 67"
 
     if last_session == today:
         today_history = recall_chat_history(limit)
-        memory += f"\n[{today}] 🔹\n{today_history}\n"
+
+        if today_history == "## 📖 Memory Recall:" :
+            with open(LAST_SUMMARY_DATE_FILE, "r") as f:
+                date = f.read().strip()
+            if date:
+                memory += f"\n[{today}] 🔹\nNo new memory, but here's a reminder of your last summary from {date}:\n{read_file(os.path.join(summary_dir, f'{date}.txt'))}\n"
+        else:
+            memory += f"\n[{today}] 🔹\n{today_history}\n LINE 78"
 
     if memory.strip() == "## 📖 Memory Recall:":
-        return "## 📖 Memory Recall:\n- No memory found."
+        return "## 📖 Memory Recall:\n- No memory found. LINE 81"
 
     return memory.strip()
 
