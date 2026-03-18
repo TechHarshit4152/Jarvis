@@ -10,6 +10,12 @@ CHAT_FILE = "daily_summary_automation/daily_chat_history.txt"
 def get_timestamp():
     return datetime.now().strftime("%Y-%m-%d %H:%M")
 
+def save_summary(summary):
+    date = read_stored_date()
+    summary_file = f"C:\\Users\\Harshit\\Desktop\\JARVIS 5.0\\conscious_core\\memory_summaries\\{date}.txt"
+    with open(summary_file, "w", encoding="utf-8") as f:
+        f.write(summary)
+
 
 def reset_chat_file():
     open(CHAT_FILE, "w", encoding="utf-8").close()
@@ -44,7 +50,8 @@ def handle_new_day():
             chat_history = f.read()
 
         if chat_history.strip():
-            process_summary(chat_history)
+            summary = process_summary(chat_history)
+            save_summary(summary)
 
     reset_chat_file()
     write_today_date()
@@ -58,10 +65,12 @@ def process_summary(chat_history: str):
     date = read_stored_date()
 
     prompt = f"""
-You are JARVIS memory system.
+Analyze the conversation and extract structured insights from your perspective.
 
-Analyze the conversation and extract structured insights.
+Chat:
+{chat_history}
 
+And provide a concise daily summary in the following format:
 
 Format:
 
@@ -82,8 +91,7 @@ EMOTIONS:
 INSIGHTS:
 - important observations
 
-Chat:
-{chat_history}
+
 """
     
     summary = print_strm(prompt)
