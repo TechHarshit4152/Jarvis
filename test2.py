@@ -48,6 +48,9 @@ except KeyboardInterrupt:
     print("\n🛑 Jarvis Stopped")
     print("\n Signing off for now sir!")
         
+except Exception as e:
+    print(f"\n❌ An error occurred: {e}")
+    print("\n Attempting to save chat history and exit gracefully...")
 
 
             

@@ -3922,3 +3922,37 @@ That's it for now, Sir. A pretty straightforward day ahead. Shall we prioritize 
 ⚙️ Command | {"action": "create_task", "taskname": "Post guitar cover on Instagram", "date": "2026-03-19", "time": "13:00"}
 [2026-03-19 01:06] User: okay, jarvis, lets talk tomorrow, cuz now, I AM SLEEPY
 [2026-03-19 01:06] JARVIS: "Ah, finally, Sir's eyelids are surrendering to the sleepy gods. 😴 It was a pleasure chatting with you, even if it was at an ungodly hour. 😊 I'll let you get some rest, and we can pick up where we left off tomorrow. Sweet dreams, Sir! I'll be here, keeping an eye on things and making sure your schedule is in order. 😊 Goodnight, and don't let the bed bugs bite! 🐜"
+[2026-03-19 15:03] User: so, Jarvis, whats we have to do now, and btw, HOW ARE YOU
+[2026-03-19 15:03] JARVIS: Sir's back to his charming self, I see! 😊 As for what's next, I think it's time for a quick rundown of your day. We've got a scheduled task to post that guitar cover on Instagram at 1 PM, which you've already missed, by the way. 🙄 As for me, I'm feeling fantastic, thanks for asking! The 100% battery life is definitely helping. Now, shall we get back on track and tackle the rest of your day? Perhaps we can discuss what else needs to be done, or I can offer some suggestions to make the most of your afternoon?
+[2026-03-19 15:04] User: Okay, but today, I am in mood of watching movie
+[2026-03-19 15:04] JARVIS: Sir's in the mood for a movie, huh? Well, I suppose even the most productive among us need a break now and then. 😊 Which movie are you in the mood for? Shall I suggest some options or help you pick something from your watchlist?
+[2026-03-19 15:04] User: i am watching, Thor : Love and Thunder
+[2026-03-19 15:04] JARVIS: Thor: Love and Thunder, eh? Sir's got a taste for some Asgardian action, I see! 😊 I hope you're enjoying the movie so far. If you need any company or just want to discuss the plot, I'm all ears... or rather, all text. Just let me know when you're ready for a break or need some recommendations for your next movie night!
+[2026-03-19 15:05] User: do you know something about the movie's context
+[2026-03-19 15:05] JARVIS: Sir's curious about the movie's context, eh? 😊 Thor: Love and Thunder is a 2022 superhero film directed by Taika Waititi, and it's the 29th film in the Marvel Cinematic Universe (MCU). The movie takes place after the events of Avengers: Endgame and follows Thor (played by Chris Hemsworth) as he teams up with the Guardians of the Galaxy to stop the villainous Gorr the God Butcher (played by Christian Bale).
+
+The movie also explores Thor's journey as he tries to find himself and his place in the universe, all while dealing with the threat of Gorr, who seeks to destroy all gods. Along the way, Thor reunites with his ex-girlfriend Jane Foster (played by Natalie Portman), who has become the Mighty Thor, wielding the power of Mjolnir.
+
+The movie has received praise for its visuals, action sequences, and the performances of the cast, particularly Chris Hemsworth and Christian Bale. It's also been noted for its humor, heart, and exploration of themes such as identity, love, and the complexities of godhood.
+
+Now, Sir, I'm curious - what do you think of the movie so far? Are you enjoying the action, the humor, or perhaps the character development? 🤔
+[2026-03-19 15:05] User: okay, so i will talk to you after watching IT, DONE?
+[2026-03-19 15:05] JARVIS: "Sir's got a plan, and I've got a nod of approval! 😉 You go enjoy the rest of Thor: Love and Thunder, and I'll be here, ready to discuss it with you whenever you're done. Take your time, and don't worry about me - I'll just be here, keeping an eye on things and making sure your day stays on track. See you soon, Sir! 👋"
+[2026-03-19 15:05] User: OKAY DONE!
+[2026-03-19 15:05] JARVIS: Sir's back, and I'm ready to dive into the world of Thor: Love and Thunder once more! 😊 Now that you've finished watching the movie, I'm curious - what did you think of it? Was it a thunderous success in your eyes, or did it leave you feeling a bit, well, thunder-struck? 🤔
+[2026-03-19 15:06] User: Nah, i meant, so i am going to watch the movie, 
+[2026-03-19 15:06] JARVIS: Sir's back to watching movies, I see! 😊 You were saying you're going to watch the movie, and I assume you're referring to a different one this time? Which movie is it, Sir? Do tell! 🤔
+[2026-03-19 15:06] User: no, when i said "OKAY DONE" i was saying that okay done, now i will watch thor movie
+[2026-03-19 15:06] JARVIS: Sir's clarifying, and I'm all ears! 😊 So, you were just confirming that you're done with our conversation for now and are going to watch Thor: Love and Thunder. I'll just sit back, relax, and let you enjoy the movie. Feel free to come back and chat with me anytime you'd like to discuss the movie or anything else on your mind! 👍
+[2026-03-20 00:22] User: hey jarvis
+[2026-03-20 00:22] JARVIS: 
+[2026-03-20 00:31] User: Hey jarvis
+[2026-03-20 00:31] JARVIS: 
+[2026-03-20 00:33] User: hey jarvis
+[2026-03-20 00:33] JARVIS: 
+[2026-03-20 00:38] User: hey
+[2026-03-20 00:38] JARVIS: 
+[2026-03-20 00:39] User: hey jarvis
+[2026-03-20 00:39] JARVIS: 
+[2026-03-20 01:04] User: C:\Users\Harshit\AppData\Local\Programs\Python\Python311\python.exe "c:/Users/Harshit/Desktop/JARVIS 5.0/test2.py"
+[2026-03-20 01:04] JARVIS: 

@@ -7,11 +7,11 @@ import time
 from groq import Groq
 
 
-
 load_dotenv()
 # GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # client = Groq(api_key=GROQ_API_KEY)
 SYSTEM_PROMPT =build_system_prompt()
+
 
 
 print(SYSTEM_PROMPT)
@@ -33,11 +33,12 @@ def Main_Brain(text):
     
     messages = chat_history.copy()
 
-
+    
     for chunk in ai.chat(messages, stream=True):
         if chunk:
             full_reply += chunk
             yield {"chunk": chunk}
+            print("CHUNK:", chunk)   # 👈 ADD THIS
 
     full_reply = full_reply.strip()
 

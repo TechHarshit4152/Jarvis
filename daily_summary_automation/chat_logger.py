@@ -5,6 +5,7 @@ from utils.print_strm import print_strm
 
 
 CHAT_FILE = "daily_summary_automation/daily_chat_history.txt"
+LAST_DATE_CHAT_FILE = "daily_summary_automation\last_date_chat_history.txt"
 
 
 def get_timestamp():
@@ -18,7 +19,14 @@ def save_summary(summary):
 
 
 def reset_chat_file():
+    with open(CHAT_FILE, "r") as f:
+        chats = f.read().strip()
+
+    with open(LAST_DATE_CHAT_FILE, "w", encoding="utf-8") as f:
+        f.write(chats)
+
     open(CHAT_FILE, "w", encoding="utf-8").close()
+
 
 
 def append_log(line: str):
@@ -53,7 +61,7 @@ def handle_new_day():
             summary = process_summary(chat_history)
             save_summary(summary)
             save_last_summary_date()
-            
+
     reset_chat_file()
     write_today_date()
 
