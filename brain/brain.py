@@ -3,6 +3,7 @@ from webscout import LLMChat
 from dotenv import load_dotenv
 from conscious_core.jarvis_system_prompt_builder import build_system_prompt
 import os
+import webscout
 import time
 from groq import Groq
 
@@ -11,6 +12,7 @@ load_dotenv()
 # GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # client = Groq(api_key=GROQ_API_KEY)
 SYSTEM_PROMPT =build_system_prompt()
+
 
 
 
@@ -37,8 +39,7 @@ def Main_Brain(text):
     for chunk in ai.chat(messages, stream=True):
         if chunk:
             full_reply += chunk
-            yield {"chunk": chunk}
-            print("CHUNK:", chunk)   # 👈 ADD THIS
+            yield {"chunk": chunk}  # 👈 ADD THIS
 
     full_reply = full_reply.strip()
 
@@ -54,7 +55,7 @@ def Main_Brain(text):
 
 # def Main_Brain(text):
 
-#     chat_history.append({"role": "user", "content": text})
+#     chat_history.append({"role": "user", "content": safe_content(text)})
 
 #     response = client.chat.completions.create(
 #         model="llama-3.1-8b-instant",
@@ -80,4 +81,8 @@ def Main_Brain(text):
 #     yield {"final": full_reply}
 
 
-
+# def safe_content(content):
+#     import json
+#     if isinstance(content, str):
+#         return content
+#     return json.dumps(content)

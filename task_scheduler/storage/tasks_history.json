@@ -38,6 +38,19 @@
             "status": "completed",
             "triggered": true,
             "completed_at": "2026-03-19T15:03:05.000575"
+        },
+        {
+            "id": "22916ee1-3a1d-4470-8b73-1bb3bba361a0",
+            "task": "Refine RAG and increase precision",
+            "task_hash": "2766fd97eec58931dd854b1b2b0c49a3",
+            "created_at": "2026-03-21T12:24:49.174452",
+            "schedule": {
+                "date": "2026-03-21",
+                "time": "13:00"
+            },
+            "status": "completed",
+            "triggered": true,
+            "completed_at": "2026-03-22T00:20:00.378822"
         }
     ]
 }

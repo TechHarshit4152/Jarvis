@@ -19,6 +19,7 @@ full_boot_message = dynamic_boot()
 
 
 
+start_scheduler()
 
 threading.Thread(
     target=alert,
@@ -27,7 +28,6 @@ threading.Thread(
 ).start()
 
 
-start_scheduler()
 
 try:
 

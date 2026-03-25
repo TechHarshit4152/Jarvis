@@ -19,7 +19,7 @@ def save_summary(summary):
 
 
 def reset_chat_file():
-    with open(CHAT_FILE, "r") as f:
+    with open(CHAT_FILE, "r", encoding="utf-8") as f:
         chats = f.read().strip()
 
     with open(LAST_DATE_CHAT_FILE, "w", encoding="utf-8") as f:
@@ -59,6 +59,8 @@ def handle_new_day():
 
         if chat_history.strip():
             summary = process_summary(chat_history)
+            if not summary.strip():
+                summary = "Summary generation failed."
             save_summary(summary)
             save_last_summary_date()
 
