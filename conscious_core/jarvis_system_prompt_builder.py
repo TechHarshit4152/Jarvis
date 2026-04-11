@@ -1,6 +1,10 @@
 from datetime import datetime, timedelta
 import random
 import os
+from pathlib import Path
+
+# Base JARVIS directory
+BASE_DIR = Path.home() / "Desktop" / "Projects" /"JARVIS 5.0"
 
 from daily_summary_automation.date_manager import DATE_FILE, LAST_SUMMARY_DATE_FILE
 
@@ -29,7 +33,7 @@ Current Session Time: {session_time}
 """
 
 def recall_chat_history(limit=10):
-    file_path = r"C:\Users\Harshit\Desktop\JARVIS 5.0\daily_summary_automation\daily_chat_history.txt"
+    file_path = BASE_DIR / "daily_summary_automation" / "daily_chat_history.txt"
     if not os.path.exists(file_path):
         return "## 📖 Memory Recall:\n- No previous memory found."
 
@@ -51,8 +55,8 @@ def recall_chat_history(limit=10):
     return summary.strip()
 
 def load_memory_summary(limit=5):
-    summary_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_summaries"
-    memory_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\daily_summary_automation"
+    summary_dir = BASE_DIR / "conscious_core" / "memory_summaries"
+    memory_dir = BASE_DIR / "daily_summary_automation"
     last_session_path = os.path.join(memory_dir, "chat_date.txt")
 
     today = get_date_str(0)
@@ -83,7 +87,7 @@ def load_memory_summary(limit=5):
     return memory.strip()
 
 def load_weekly_reflection():
-    report_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_report_reflection"
+    report_dir = BASE_DIR / "conscious_core" / "reflective_summaries" / "weekly" / "weekly_report_reflection"
     if not os.path.exists(report_dir):
         return ""
 
@@ -101,7 +105,7 @@ def load_weekly_reflection():
     return f"## 🗓️ Last Week Reflection:\n{reflection.strip()}" if reflection else ""
 
 def load_weekly_introspection():
-    introspect_dir = r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\weekly_introspection"
+    introspect_dir = BASE_DIR / "conscious_core" / "reflective_summaries" / "weekly" / "weekly_introspection"
     if not os.path.exists(introspect_dir):
         return ""
 
@@ -117,8 +121,8 @@ def load_weekly_introspection():
     return f"## 🧠 Self-Introspection:\n{latest.strip()}" if latest else ""
 
 def build_system_prompt():
-    identity = read_file(r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_data\identity_core.txt")
-    personality = read_file(r"C:\Users\Harshit\Desktop\JARVIS 5.0\conscious_core\memory_data\persona.txt")
+    identity = read_file(BASE_DIR / "conscious_core" / "memory_data" / "identity_core.txt")
+    personality = read_file(BASE_DIR / "conscious_core" / "memory_data" / "persona.txt")
     emotion = load_emotion_state()
     memory = load_memory_summary(limit=5)
     weekly_reflection = load_weekly_reflection()

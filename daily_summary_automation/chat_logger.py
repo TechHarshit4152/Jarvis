@@ -2,10 +2,13 @@ import os
 from datetime import datetime
 from daily_summary_automation.date_manager import write_today_date, read_stored_date, save_last_summary_date
 from utils.print_strm import print_strm
+from pathlib import Path
 
+# Base JARVIS directory
+BASE_DIR = Path.home() / "Desktop" / "Projects" /"JARVIS 5.0"
 
-CHAT_FILE = "daily_summary_automation/daily_chat_history.txt"
-LAST_DATE_CHAT_FILE = "daily_summary_automation\last_date_chat_history.txt"
+CHAT_FILE = BASE_DIR / "daily_summary_automation" / "daily_chat_history.txt"
+LAST_DATE_CHAT_FILE = BASE_DIR /  "daily_summary_automation" / "last_date_chat_history.txt"
 
 
 def get_timestamp():
@@ -13,7 +16,7 @@ def get_timestamp():
 
 def save_summary(summary):
     date = read_stored_date()
-    summary_file = f"C:\\Users\\Harshit\\Desktop\\JARVIS 5.0\\conscious_core\\memory_summaries\\{date}.txt"
+    summary_file = BASE_DIR / "conscious_core" / "memory_summaries" / f"{date}.txt"
     with open(summary_file, "w", encoding="utf-8") as f:
         f.write(summary)
 

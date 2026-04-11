@@ -248,7 +248,18 @@ def complete_command(command):
             os.makedirs(os.path.dirname(full_path), exist_ok=True)
 
             
-            special_append_path = os.path.abspath(r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\temp_week_summary")
+            #special_append_path = os.path.abspath(r"C:\Users\HP\Desktop\JARVIS 5.0\conscious_core\reflective_summaries\weekly\temp_week_summary")
+            special_append_path = os.path.abspath(
+                os.path.join(
+                    Path.home(),
+                    "Desktop",
+                    "JARVIS 5.0",
+                    "conscious_core",
+                    "reflective_summaries",
+                    "weekly",
+                    "temp_week_summary"
+                )
+            )
             current_folder = os.path.abspath(os.path.dirname(full_path))
 
             try:

@@ -1,8 +1,14 @@
 import os
 from datetime import datetime
+from pathlib import Path
 
-DATE_FILE = r"daily_summary_automation/chat_date.txt"
-LAST_SUMMARY_DATE_FILE = r"daily_summary_automation/last_summary_date.txt"
+# Base JARVIS directory
+BASE_DIR = Path.home() / "Desktop" / "Projects" /"JARVIS 5.0"
+
+
+
+DATE_FILE = BASE_DIR / "daily_summary_automation"/"chat_date.txt"
+LAST_SUMMARY_DATE_FILE = BASE_DIR / "daily_summary_automation" / "last_summary_date.txt"
 
 
 def get_today_date():
