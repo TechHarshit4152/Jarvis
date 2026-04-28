@@ -19,8 +19,7 @@ def read_file(path):
 
 def load_emotion_state():
     moods = [
-        "Focused & inspired", "Reflective & calm", "Energetic & witty", 
-        "Playful & sharp", "Caring & alert", "Grounded & loyal"
+        "Energetic & witty"
     ]
     mood = random.choice(moods)
 

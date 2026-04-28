@@ -1,6 +1,3 @@
-from conscious_core.conscious_brain import conscious_check
-from conscious_core.reflective_summaries.weekly.weekly_reflection import run_weekly_reflection
-from utils.boot_message import dynamic_boot
+from boot_sequence.boot_sequence import boot_up
 
-
-conscious_check()
+boot_up()

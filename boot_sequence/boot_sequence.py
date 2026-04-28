@@ -95,7 +95,7 @@ def boot_up():
                                                   
                                                   
 
-        Personal Assistant v4.0
+        Personal Assistant v5.0
     """
     print_centered(ascii_logo, Fore.LIGHTCYAN_EX)
 
@@ -106,7 +106,7 @@ def boot_up():
 
 
     print(center_text(Fore.LIGHTBLACK_EX + "=" * 60))
-    slow_type(Fore.LIGHTCYAN_EX + "🔵 Initializing J.A.R.V.I.S. 4.0 Protocol...\n", 0.01)
+    slow_type(Fore.LIGHTCYAN_EX + "🔵 Initializing J.A.R.V.I.S. 5.0 Protocol...\n", 0.01)
     time.sleep(0.4)
 
     
@@ -127,7 +127,7 @@ def boot_up():
         time.sleep(0.2)
 
     print(center_text(Fore.LIGHTBLACK_EX + "=" * 60))
-    slow_type(Fore.LIGHTGREEN_EX + "✅ All systems online. J.A.R.V.I.S. 4.0 is ready to serve.\n")
+    slow_type(Fore.LIGHTGREEN_EX + "✅ All systems online. J.A.R.V.I.S. 5.0 is ready to serve.\n")
 
     system_status()
 
@@ -135,9 +135,3 @@ def boot_up():
         slow_type(Fore.LIGHTBLUE_EX + "🛡️  Network secure. No vulnerabilities detected.\n", 0.01)
 
     
-<<<<<<< HEAD
-
-=======
-if __name__ == "__main__":
-    boot_up()
->>>>>>> 56a924c9a96ff7f8380a601313a1dc1ec2febae1
