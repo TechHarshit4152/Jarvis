@@ -26,5 +26,11 @@ yarn-error.log*
 
 co_brain.py
 Jarvis.py
+test.py
+dumps/
+rag_engine/
+boot_sequence/
+data/
+intent_recognition/
 
 TTS/
