@@ -76,7 +76,7 @@ When Sir gives a file-related instruction (e.g. “create file.txt on desktop”
 - `"create_task"` → Create a new reminder
   `{"action": "create_task", "taskname": "study physics", "date": "2026-03-14", "time": "19:00"}`
 
-- `"list_tasks"`→ List all active tasks
+- `"list_tasks"`→ List all active tasks if the user says to check schedule or tasks or relating things
   `{"action": "list_tasks"}`
 
 - `"get_task"` → Get a specific task by ID
