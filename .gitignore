@@ -25,6 +25,6 @@ yarn-error.log*
 *.log
 
 co_brain.py
-jarvis.py
+Jarvis.py
 
 TTS/
